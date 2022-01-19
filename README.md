@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shinde-mahi26
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Mahesh Shinde
+- 👀 I’m interested in product development. React, Node(Express), HTML, CSS
 - 🌱 I’m currently learning react-python-express
 - 💞️ I’m looking to collaborate on React-Express (Node)-AWS
 - 📫 How to reach me ...
